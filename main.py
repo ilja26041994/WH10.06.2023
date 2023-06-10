@@ -58,3 +58,5 @@
 #         print(x)
 #         print(lenSomeString2 + 1)
 #         break
+# else:
+#     print('введены идентичные строки')
